@@ -1,3 +1,6 @@
+# manual exclude
+20mm_side_50mm_behind_7cell.gif
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
